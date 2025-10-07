@@ -1,0 +1,3 @@
+/mnt/data/shared_simulated/development: 0o770
+/mnt/data/shared_simulated/testing: 0o770
+/mnt/data/shared_simulated/readonly: 0o755
